@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671898632361
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671986852774
+  login: 1671986825930
+money: '0'
+last-account-name: RODMAN
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: -294.36725770761893
+  y: 11.0
+  z: 674.750231197013
+  yaw: 171.25152587890625
+  pitch: -24.598987579345703
+homes:
+  home:
+    world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+    world-name: world
+    x: -88.15306385164153
+    y: 63.0
+    z: 619.6497532066412
+    yaw: 264.293212890625
+    pitch: 13.719491004943848
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: -295.7611126521437
+  y: 11.0
+  z: 628.3271280156573
+  yaw: 40.31024169921875
+  pitch: 22.452539443969727

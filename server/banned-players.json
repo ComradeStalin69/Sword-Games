@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "68a64d9e-b795-30ec-acea-95f88a14140a",
+    "name": "girltf",
+    "created": "2023-05-11 15:58:43 +0000",
+    "source": "GriefPrevention Smart Ban - Shared Login:Boflighty",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "6e2203b9-9438-36df-ada7-4bbf343b075e",
+    "name": "Boflighty",
+    "created": "2023-05-11 14:59:57 +0000",
+    "source": "GriefPrevention Anti-Spam",
+    "expires": "forever",
+    "reason": "Banned for spam."
+  },
+  {
+    "uuid": "1635f321-0a15-38b0-9882-44552576d151",
+    "name": "zach2011",
+    "created": "2023-10-07 18:56:47 +0000",
+    "source": "GriefPrevention Anti-Spam",
+    "expires": "forever",
+    "reason": "Banned for spam."
+  }
+]

@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672000221615
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672011538572
+  login: 1672011312560
+  kits:
+    tools: 1671999735475
+    dtools: 1671927500227
+money: '1001004863.19999999999995'
+last-account-name: Solenten
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: -103.30000001192093
+  y: 70.0
+  z: 114.30000001192093
+  yaw: 287.1000061035156
+  pitch: 32.54999923706055
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: -536.7158792681996
+  y: 11.0
+  z: 629.6478242248672
+  yaw: 98.100341796875
+  pitch: 18.149993896484375

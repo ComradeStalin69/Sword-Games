@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701846882024
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701905249840
+  login: 1701905111163
+  kits:
+    tools: 1701830640329
+money: '63.73'
+last-account-name: KKS
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 573.8719072739266
+  y: 65.0
+  z: 651.5397967755438
+  yaw: -276.0000305175781
+  pitch: -0.1500064879655838
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 439.3153653408895
+  y: 64.0
+  z: 512.1827519167025
+  yaw: -108.45001220703125
+  pitch: 18.000001907348633

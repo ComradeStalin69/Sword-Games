@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <title>Connection Error</title>
+    <body>
+        <h1>This is not the page you're looking for</h1>
+        Hi! You're not meant to visit this page. Instead, you're meant to add this as a server to your EaglerX 1.8 server list.<br>
+        Server URL: wss://{ip}/server
+    </body>
+    <script defer=true>
+        function inIframe () {
+            try {
+                return window.self !== window.top;
+            } catch (e) {
+                return true;
+            }
+        }
+        if (inIframe()) {
+            document.body.innerHTML = `<h1>This is not the page you're looking for</h1>Please open this page in a new window (top-right button of the webview's window) for more information.`
+        } else {
+            document.body.innerHTML = document.body.innerHTML.replace("{ip}", window.location.host)
+        }
+    </script>
+</html>

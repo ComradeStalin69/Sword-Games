@@ -1,0 +1,11 @@
+---- Minecraft Profiler Results ----
+// Speedy. Zoooooom!
+
+Time span: 44155 ms
+Tick span: 883 ticks
+// This is approximately 20.00 ticks per second. It should be 20 ticks per second
+
+--- BEGIN PROFILE DUMP ---
+
+--- END PROFILE DUMP ---
+

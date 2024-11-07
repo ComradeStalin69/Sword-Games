@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1696446355414
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696447084683
+  login: 1696447029919
+  kits:
+    tools: 1696440947536
+money: '0'
+last-account-name: smurfcat
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 717.4523155065721
+  y: 43.0
+  z: 147.68794776734472
+  yaw: 133.3499755859375
+  pitch: 85.05000305175781
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 489.5
+  y: 79.0
+  z: 585.5
+  yaw: 0.0
+  pitch: 0.0

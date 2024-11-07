@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1691590416363
+  login: 1691590410950
+money: '0'
+last-account-name: Africiangoat
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 503.44471289504014
+  y: 80.74204537366585
+  z: 570.7141347977581
+  yaw: 169.9500732421875
+  pitch: 5.999992370605469
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 530.3000000119207
+  y: 71.0
+  z: 574.0449091223013
+  yaw: 50.10000991821289
+  pitch: 17.54999351501465

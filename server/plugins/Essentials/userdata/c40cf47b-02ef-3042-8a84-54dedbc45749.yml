@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1696439988567
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696447417619
+  login: 1696447241024
+money: '0'
+last-account-name: henner
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 489.5
+  y: 79.0
+  z: 585.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 435.63098108858446
+  y: 65.0
+  z: 512.334871321513
+  yaw: 352.0631103515625
+  pitch: -6.450000286102295

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1684156203962
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684156258211
+  login: 1684156108700
+money: '0'
+last-account-name: My_peepaw_died
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 489.5
+  y: 79.0
+  z: 585.5
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 504.6145269751805
+  y: 79.0
+  z: 580.0483822517764
+  yaw: 44.10000228881836
+  pitch: 42.15000534057617

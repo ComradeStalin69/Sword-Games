@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1694774310416
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1694887501085
+  login: 1694887436299
+  kits:
+    tools: 1694774650424
+money: '0'
+last-account-name: Sc1mitar
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 71.43541226586022
+  y: 38.0
+  z: 422.549930455133
+  yaw: -342.7500305175781
+  pitch: 90.0
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 489.5
+  y: 79.0
+  z: 585.5
+  yaw: 0.0
+  pitch: 0.30000004172325134
+homes:
+  home:
+    world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+    world-name: world
+    x: 67.69999998807907
+    y: 41.0
+    z: 417.46712412416156
+    yaw: -42.30000305175781
+    pitch: 37.34999465942383

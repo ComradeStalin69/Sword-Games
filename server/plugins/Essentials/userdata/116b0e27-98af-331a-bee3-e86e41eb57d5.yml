@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1696606403901
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697720200954
+  login: 1697720197376
+money: '0'
+last-account-name: DiceGamez
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 887.1755002472618
+  y: 68.02799997925757
+  z: 1343.3841741932517
+  yaw: -135.71922302246094
+  pitch: 76.3499984741211
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 462.69999998807907
+  y: 63.0
+  z: 706.6999999880791
+  yaw: -40.19776916503906
+  pitch: 7.6499924659729
+homes:
+  home:
+    world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+    world-name: world
+    x: 687.5760089850605
+    y: 66.0
+    z: 1335.1497150725518
+    yaw: 51.18058776855469
+    pitch: 28.79999351501465

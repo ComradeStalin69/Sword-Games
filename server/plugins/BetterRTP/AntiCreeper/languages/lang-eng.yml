@@ -1,0 +1,26 @@
+worldState: §4{0}§r in your world is {1}active
+enderReset: Reset nerf_endermen.whitelist to {0} below
+fragileSet: Blocks below are fragile to {0} explosions :
+appendList: Appended to {0} with new blocklist below
+enderAppend: Appended to {0} below
+printall: §4{0}§r: It's really big. If you're sure use 'all' option
+oneSet: Set {0} to {1}
+witherDestroy: destroyblocks only applies to Wither
+worldStateOn: §4{0}§r now effective in: §7{1}
+setAll: Set all {0} to {1}
+enderLift: Blocks below are subject to lifting by endermen
+durableSet: Blocks below are durable to {0} explosions :
+noBeds: §a{0}§e Beds in nether are not allowed
+worldStateOff: §4{0}§r now disabled in: §7{1}
+negative: negatives are invalid for {0}.
+enderSafe: Blocks below are safe from endermen
+invalidValue: invalid value for {0}
+resetFilter: Reset {0} to {1} with new blocklist below
+dupePluginDamage: SafeCreeper also modifying {0} explosion damage. Set all {1}. entitydamage.*=true to avoid conflict
+dupePluginBlocks: SafeCreeper also modifying {0} explosion. Set {1}.explodeblocks=false to avoid conflict
+dupePluginFilter: SafeCreeper also modifying {0} explosion. Comment out {1}.blockfilter to avoid conflict
+dupePluginFire: SafeCreeper also modifying {0} fire. Comment out {1}.fire to avoid conflict
+dupePluginPower: SafeCreeper also modifying {0} power. Comment out {1}.power to avoid conflict
+unknownWorld: AntiCreeper3: unknown world {0}
+allWorlds: nerfed_worlds empty; activating for ALL worlds
+useAll: AntiCreeper3: Not supported from SERVER without 'all' option

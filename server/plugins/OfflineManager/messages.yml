@@ -1,0 +1,23 @@
+#OfflineManager 1.3.3
+#Created by flawe prod., LOVEC3327
+#Contact https://vk.com/flawe0ff or https://t.me/flawe_sv
+#Messages configuration file
+
+enter.nickname: "&a[OfflineManager] &eEnter nickname!"
+player.online: "&a[OfflineManager] &eThis player is online!"                                                            # %offline_player%
+player.notfound: "&a[OfflineManager] &ePlayer not found!"                                                               # %offline_player%
+already.edited: "&a[OfflineManager] &eThis player is already being edited!"                                             # %player%, %offline_player%
+player.teleport: "&a[OfflineManager] &eTeleport to the last location &c%offline_player%"                                # %player%, %offline_player%
+player.teleportTo.player: "&a[OfflineManager] &ePlayer &c%offline_player%&e teleported to &c%target%"                   # %offline_player%, %target%
+change.location: "&a[OfflineManager] &ePlayer location changed!"                                                        # %player%, %offline_player%
+player.killed: "&a[OfflineManager] &ePlayer &c%offline_player%&e was killed"                                            # %player%, %offline_player%
+player.healed: "&a[OfflineManager] &ePlayer &c%offline_player%&e is healed!"                                            # %player%, %offline_player%
+player.feed: "&a[OfflineManager] &ePlayer &c%offline_player%&e was fed"                                                 # %player%, %offline_player%
+inventory.clear: "&a[OfflineManager] &eInventory &c%offline_player%&e was cleared"                                      # %player%, %offline_player%
+edit.gamemode: "&a[OfflineManager] &ePlayer gamemode &c%offline_player% &ehas been changed to &c%game_type%"            # %player%, %offline_player%, %game_type%
+enter.gamemode: "&a[OfflineManager] &eEnter gamemode!"
+enter.subcommand: "&a[OfflineManager] &eEnter sub-command!"
+valid.gamemode: "&a[OfflineManager] &eEnter valid gamemode!"
+canceled: "&a[OfflineManager] &eThis function has been disabled!"
+subcommand.notfound: "&a[OfflineManager] &eThis sub-command not found!"
+noperm: "&a[OfflineManager] &eYou don't have permissions!"

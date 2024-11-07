@@ -1,0 +1,52 @@
+[2023-03-10 20:42:39] - snowie_jay bought 1 x Cookie(Food.4) for $2.10 with the buy screen.
+[2023-03-10 20:42:40] - snowie_jay bought 1 x Cookie(Food.4) for $2.10 with the buy screen.
+[2023-03-10 20:42:41] - snowie_jay bought 1 x Cookie(Food.4) for $2.10 with the buy screen.
+[2023-03-10 20:53:00] - snowie_jay sold 1 x Sapling(Decoration.14) for $0.75 with the sell screen.
+[2023-03-10 20:53:05] - snowie_jay sold 1 x Sapling(Decoration.13) for $0.75 with the sell screen.
+[2023-03-10 21:18:56] - Donomite bought 1 x Enchanted Book(Enchanting.17) for $972.41 with the buy screen.
+[2023-03-10 21:19:05] - Donomite bought 1 x Enchanted Book(Enchanting.18) for $200 with the buy screen.
+[2023-03-10 21:19:11] - Donomite bought 1 x Enchanted Book(Enchanting.21) for $441 with the buy screen.
+[2023-03-10 21:19:19] - Donomite bought 1 x Enchanted Book(Enchanting.19) for $1,944.81 with the buy screen.
+[2023-03-10 21:19:29] - Donomite bought 1 x Enchanted Book(Enchanting.11) for $705.60 with the buy screen.
+[2023-03-10 21:19:34] - Donomite bought 1 x Enchanted Book(Enchanting.10) for $210 with the buy screen.
+[2023-03-10 21:19:47] - Donomite bought 1 x Enchanted Book(Enchanting.7) for $336 with the buy screen.
+[2023-09-27 12:45:19] - YeeishDeev132 sold 6x Stone(Blocks.11), 1x Leather(Farming.6), 28x Sapling(Decoration.14), 10x Stone(Blocks.18), 26x Cobblestone(Blocks.16), 1x Egg(Farming.5), 1x Dirt(Blocks.21), 2x Stone(Blocks.29) for $39.06 with the sell all command.
+[2023-11-08 06:21:23] - DarvlerEagl72 sold 6 x Dirt(Blocks.21) for $4.50 with the sell screen.
+[2023-11-08 06:22:37] - DarvlerEagl72 sold 15 x Dirt(Blocks.21) for $11.25 with the sell screen.
+[2023-11-08 06:23:22] - DarvlerEagl72 sold 28 x Dirt(Blocks.21) for $21 with the sell screen.
+[2023-11-08 06:25:18] - DarvlerEagl72 sold 31 x Dirt(Blocks.21) for $23.25 with the sell screen.
+[2023-11-08 06:25:27] - DarvlerEagl72 sold 12 x Cobblestone(Blocks.16) for $2.04 with the sell screen.
+[2023-11-08 06:26:20] - DarvlerEagl72 bought 1 x Brewing Stand Item(Workstations.1) for $7.40 with the buy screen.
+[2023-11-08 06:26:42] - DarvlerEagl72 bought 1 x Nether Stalk(Farming.10) for $3 with the buy screen.
+[2023-11-08 06:28:06] - DarvlerEagl72 sold 13 x Stone(Blocks.18) for $2.34 with the sell screen.
+[2023-11-08 06:28:34] - DarvlerEagl72 sold 21 x Cobblestone(Blocks.16) for $3.57 with the sell screen.
+[2023-11-08 06:31:22] - DarvlerEagl72 sold 8 x Stone(Blocks.30) for $1.52 with the sell screen.
+[2023-11-08 06:37:09] - DarvlerEagl72 bought 1 x Apple(Food.1) for $10 with the buy screen.
+[2023-11-08 06:37:10] - DarvlerEagl72 bought 1 x Apple(Food.1) for $10 with the buy screen.
+[2023-11-08 06:37:12] - DarvlerEagl72 bought 1 x Apple(Food.1) for $10 with the buy screen.
+[2023-11-08 06:38:21] - DarvlerEagl72 sold 3 x Stone(Blocks.29) for $0.54 with the sell screen.
+[2023-11-08 06:39:40] - DarvlerEagl72 sold 14 x Wood(Blocks.60) for $3.92 with the sell screen.
+[2023-11-08 06:44:01] - DarvlerEagl72 sold 15 x Stone(Blocks.18) for $2.70 with the sell screen.
+[2023-11-08 06:44:16] - DarvlerEagl72 sold 2 x Dirt(Blocks.21) for $1.50 with the sell screen.
+[2023-11-08 06:48:34] - DarvlerEagl72 sold 34 x Dirt(Blocks.21) for $25.50 with the sell screen.
+[2023-11-08 06:49:17] - DarvlerEagl72 sold 3 x Apple(Food.1) for $7.50 with the sell screen.
+[2023-11-08 06:51:14] - DarvlerEagl72 sold 32 x Stone(Blocks.30) for $6.08 with the sell screen.
+[2023-11-08 06:52:21] - DarvlerEagl72 sold 5 x Ink Sack(Dyes.5) for $1.35 with the sell screen.
+[2023-11-08 06:55:14] - DarvlerEagl72 sold 4 x Ink Sack(Dyes.7) for $1.08 with the sell screen.
+[2023-11-08 06:55:21] - DarvlerEagl72 sold 5 x Ink Sack(Dyes.5) for $1.35 with the sell screen.
+[2023-11-08 06:56:11] - DarvlerEagl72 sold 2 x Apple(Food.1) for $5 with the sell screen.
+[2023-11-08 06:57:21] - DarvlerEagl72 sold 1 x Apple(Food.1) for $2.50 with the sell screen.
+[2023-11-08 06:58:03] - DarvlerEagl72 sold 4 x Apple(Food.1) for $10 with the sell screen.
+[2023-11-08 06:59:48] - DarvlerEagl72 sold 12 x Apple(Food.1) for $30 with the sell screen.
+[2023-11-08 07:03:21] - DarvlerEagl72 sold 38 x Apple(Food.1) for $95 with the sell screen.
+[2023-11-08 07:04:40] - DarvlerEagl72 bought 2 x Melon Seeds(Farming.8) for $6 with the buy screen.
+[2023-11-08 07:12:07] - DarvlerEagl72 sold 30 x Apple(Food.1) for $75 with the sell screen.
+[2023-11-08 07:13:19] - DarvlerEagl72 sold 164 x Wood(Blocks.72) for $45.92 with the sell screen.
+[2023-11-08 07:17:06] - DarvlerEagl72 sold 132 x Wood(Blocks.60) for $36.96 with the sell screen.
+[2023-11-08 07:17:28] - DarvlerEagl72 sold 6 x Apple(Food.1) for $15 with the sell screen.
+[2023-11-08 07:23:22] - DarvlerEagl72 sold 35 x Sapling(Decoration.13) for $26.25 with the sell screen.
+[2023-11-08 07:24:29] - DarvlerEagl72 bought 3 x Dirt(Blocks.25) for $24 with the buy screen.
+[2023-11-08 07:39:51] - DarvlerEagl72 sold 3 x Iron Ingot(Ores.10) for $15.75 with the sell screen.
+[2023-11-08 07:46:24] - DarvlerEagl72 sold 19 x Apple(Food.1) for $47.50 with the sell screen.
+[2023-11-08 07:48:28] - DarvlerEagl72 bought 1 x Potato Item(Farming.11) for $5 with the buy screen.
+[2023-11-08 07:52:49] - DarvlerEagl72 sold 2 x Apple(Food.1) for $5 with the sell screen.

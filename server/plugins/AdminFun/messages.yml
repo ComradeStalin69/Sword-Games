@@ -1,0 +1,77 @@
+# +----------------------------------------------------+ #
+# |           AdminFun Message Configuration           | #
+# |                   By: Velocity6                    | #
+# |                - - - - - - - - - -                 | #
+# +----------------------------------------------------+ #
+# --
+
+version: 2.7.0
+
+base:
+    no-permission: '&cYou do not have permission to execute this command!'
+    plugin-disabled: '&7AdminFun &cis disabled! Re-enable the plugin to perform this task!'
+    target-exempt: '&7%target% &cis exempt from this command!' 
+    target-not-found: '&7%target% &cwas not found!'
+
+commands:
+    bgod:
+        prefix: '&a[God]'
+    dropparty:
+        commence-time-limit-exceeded: '&cYou cannot set the commence time to more than 20.'
+        commence-time-not-numeric: '&cThe drop party commence time must be numeric.'
+        already-running: '&cA Drop Party is already being run! Only one party can be hosted at a time.'
+        #TODO broadcasting for DP
+    enchant:
+        sender-alert: '&a[God] &bLike the enchantments?'
+    explode:
+        sender-alert: '&7%target% &b has been blown to bits!'
+    fakejoin:
+        format: '&e%target% has joined the game!'
+    fakeop:
+        victim-alert: '&eYou are now op!'
+        sender-alert: '&7%target% &bhas been fooled into thinking they have been made op!'
+    fakequit:
+        format: '&e%target% has left the game'
+    firework:
+        sender-alert: '&7%target% &bhas been turned into a firework!'
+    freeze:
+        sender-alert-freeze: '&7%target% &bhas been frozen in place!'
+        sender-alert-unfreeze: '&7%target% &bhas been unfrozen!'
+        victim-alert-freeze: '&cYou have been frozen!'
+        victim-alert-unfreeze: '&bYou have been unfrozen!'
+    invlock:
+        sender-alert-lock: '&7%target% &bhas had their inventory locked!'
+        sender-alert-unlock: '&7%target% has had their inventory unlocked!'
+    randomtp:
+        sender-alert: '&7%target% &bhas been teleported to a random location.'
+    reload:
+        sender-alert-config: '&7AdminFun &bconfiguration file has been succesfully reloaded!'
+        sender-alert-lang: '&7AdminFun &blanguage file has been succesfully reloaded!'
+    rocket:
+        victim-alert: '&cYou have been turned into a rocket! Whoosh!'
+        sender-alert: '&7%target% &bhas been sent into the air!'
+        target-inside: '&7%target% &cis not outside and cannot be sent into the air!'
+    show:
+        sender-alert: '&bRight click with the show selector to start a firework show.'
+        sender-removed: '&bYou are no longer starting a firework show.'
+    slap:
+        sender-alert: '&7%target% &bhas been slapped!'
+        sender-max-value: '&cDamage must be less than or equal to &7%value%&c. &7%target% &chas been slapped with &7%value% &cdamage.'
+        victim-alert: '&cYou have been slapped!'
+    sound:
+        sender-alert: '&7%target% &bwas just played the &7%sound% &bsound!'
+    spamcast:
+        prefix: '&e[&cSpam&bCast&e]'
+        sender-alert: '&bYour message has been spammed to all players!'
+    tell:
+        exempt-alert: '&cThe previous message was sent via &7AdminFun&c.'
+        sender-alert: '&bMessage sent to all players!'
+    xpparty:
+        orb-limit: '&cYou cannot spawn over &7750 &cxp orbs, this may crash other players clients.'
+        orb-not-numeric: '&cNumber of orbs must be numeric.'
+        #TODO broadcasting
+    zap:
+        sender-alert: '&7%target% &bhas been struck by lightning!'
+        
+        
+     

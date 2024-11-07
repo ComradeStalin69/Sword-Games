@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1694210152601
+  login: 1694210061007
+money: '0'
+last-account-name: Nawor
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 501.8628425134423
+  y: 82.0
+  z: 561.2444940406198
+  yaw: 119.70001983642578
+  pitch: 6.900008678436279
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 478.8775234507975
+  y: 75.0
+  z: 571.3000000119209
+  yaw: -162.3001708984375
+  pitch: -56.849998474121094

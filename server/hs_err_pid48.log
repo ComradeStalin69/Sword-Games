@@ -1,0 +1,98 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGBUS (0x7) at pc=0x00007f4d10ef24a1, pid=48, tid=0x00007f4cf5967640
+#
+# JRE version: OpenJDK Runtime Environment (Zulu 8.48.0.53-CA-linux64) (8.0_265-b11) (build 1.8.0_265-b11)
+# Java VM: OpenJDK 64-Bit Server VM (25.265-b11 mixed mode linux-amd64 compressed oops)
+# Problematic frame:
+# V  [libjvm.so+0x4a24a1]  CompileBroker::collect_statistics(CompilerThread*, elapsedTimer, CompileTask*)+0x181
+#
+# Core dump written. Default location: /home/runner/eaglerx-server2/server/core or core.48
+#
+# If you would like to submit a bug report, please visit:
+#   http://www.azulsystems.com/support/
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00007f4d0c164000):  JavaThread "C1 CompilerThread1" daemon [_thread_in_vm, id=75, stack(0x00007f4cf5868000,0x00007f4cf5968000)]
+
+siginfo: si_signo: 7 (SIGBUS), si_code: 2 (BUS_ADRERR), si_addr: 0x00007f4d1042a268
+
+Registers:
+RAX=0x00007f4d1042a268, RBX=0x00007f4ccf131688, RCX=0x0000000d21aaecc3, RDX=0x00007f4cc085d400
+RSP=0x00007f4cf59667c0, RBP=0x00007f4cf5966830, RSI=0x0000000000000000, RDI=0x00007f4d11a33140
+R8 =0x00007f4cf6fa94b8, R9 =0x0000000000000003, R10=0x00007f4d0c28f308, R11=0x00007f4cf6fa94b0
+R12=0x00007f4d0c164000, R13=0x000000000000005c, R14=0x00007f4d0c008490, R15=0x00007f4d0c162f40
+RIP=0x00007f4d10ef24a1, EFLAGS=0x0000000000010202, CSGSFS=0x002b000000000033, ERR=0x0000000000000007
+  TRAPNO=0x000000000000000e
+
+Top of Stack: (sp=0x00007f4cf59667c0)
+0x00007f4cf59667c0:   00007f4cf5966800 00007f4d10d341e2
+0x00007f4cf59667d0:   00007f4cf5966800 00007f4cf59668e0
+0x00007f4cf59667e0:   00007f4d11a15420 00007f4cc085d400
+0x00007f4cf59667f0:   01007f4d11a13e64 00007f4cfe430bd0
+0x00007f4cf5966800:   00007f4cf5966830 00007f4cc085d400
+0x00007f4cf5966810:   00007f4d0c164000 00007f4ccf131688
+0x00007f4cf5966820:   00007f4ccf131688 00007f4d0c01c6d0
+0x00007f4cf5966830:   00007f4cf5966c20 00007f4d10ef4074
+0x00007f4cf5966840:   0000000d21aaecc3 00007f4cf5966a90
+0x00007f4cf5966850:   0000000000001400 00007f4d0c003f60
+0x00007f4cf5966860:   00007f4d0c04cba0 00007f4d1159500c
+0x00007f4cf5966870:   00007f4cf5966890 00000000000003d8
+0x00007f4cf5966880:   00002461f59668d0 00007f4d0c01c750
+0x00007f4cf5966890:   00007f4d0c01caf8 00007f4cf5966a70
+0x00007f4cf59668a0:   01007f4cfd046120 00007f4d0c01c710
+0x00007f4cf59668b0:   00007f4d0c04cb00 00007f4cf6fa94b0
+0x00007f4cf59668c0:   00007f4d0c28f300 00007f4cf6fa79a0
+0x00007f4cf59668d0:   00007f4c00000003 00007f4d00000000
+0x00007f4cf59668e0:   00007f4cf59668e8 0000000000000006
+0x00007f4cf59668f0:   0000000000000000 0000000000000000
+0x00007f4cf5966900:   0000000000000000 0000000000000000
+0x00007f4cf5966910:   0000000000000000 00007f4d000034c2
+0x00007f4cf5966920:   00007f4cc0559290 00007f4d0c01c7d0
+0x00007f4cf5966930:   00007f4d0c01c820 00007f4cdc52b730
+0x00007f4cf5966940:   0000000000000000 00007f0000000000
+0x00007f4cf5966950:   00007f4d000004f5 00007f4cc085d400
+0x00007f4cf5966960:   0000000000000000 0000000000000000
+0x00007f4cf5966970:   0000000000000000 0000000000000000
+0x00007f4cf5966980:   00007f4c00000000 00007f4cdc843a90
+0x00007f4cf5966990:   00007f4cdc843b50 0000000000000000
+0x00007f4cf59669a0:   0000000000000000 0000000000000000
+0x00007f4cf59669b0:   0000000000000000 0000000000000000 
+
+Instructions: (pc=0x00007f4d10ef24a1)
+0x00007f4d10ef2481:   83 7d c8 00 0f 84 85 02 00 00 48 8b 05 16 0c b4
+0x00007f4d10ef2491:   00 48 8b 4d 10 48 8d 3d a3 0c b4 00 48 8b 40 28
+0x00007f4d10ef24a1:   48 01 08 48 89 55 b8 48 8b 45 10 48 89 04 24 48
+0x00007f4d10ef24b1:   8b 45 18 48 89 44 24 08 48 8b 45 20 48 89 44 24 
+
+Register to memory mapping:
+
+RAX=0x00007f4d1042a268 is an unknown value
+RBX={method} {0x00007f4ccf131688} 'run' '()V' in 'net/minecraft/server/v1_8_R3/MinecraftServer'
+RCX=0x0000000d21aaecc3 is an unknown value
+RDX=0x00007f4cc085d400 is an unknown value
+RSP=0x00007f4cf59667c0 is pointing into the stack for thread: 0x00007f4d0c164000
+RBP=0x00007f4cf5966830 is pointing into the stack for thread: 0x00007f4d0c164000
+RSI=0x0000000000000000 is an unknown value
+RDI=0x00007f4d11a33140: <offset 0xfe3140> in /nix/store/d9zjaa4bsa3ld40bpfjxz6fssjlz5nv1-zulu-8.48.0.53/jre/lib/amd64/server/libjvm.so at 0x00007f4d10a50000
+R8 =0x00007f4cf6fa94b8 is an unknown value
+R9 =0x0000000000000003 is an unknown value
+R10=0x00007f4d0c28f308 is an unknown value
+R11=0x00007f4cf6fa94b0 is an unknown value
+R12=0x00007f4d0c164000 is a thread
+R13=0x000000000000005c is an unknown value
+R14=0x00007f4d0c008490 is an unknown value
+R15=0x00007f4d0c162f40 is an unknown value
+
+
+Stack: [0x00007f4cf5868000,0x00007f4cf5968000],  sp=0x00007f4cf59667c0,  free space=1017k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [libjvm.so+0x4a24a1]  CompileBroker::collect_statistics(CompilerThread*, elapsedTimer, CompileTask*)+0x181
+V  [libjvm.so+0x4a4074]  CompileBroker::invoke_compiler_on_method(CompileTask*)+0xc24
+V  [libjvm.so+0x4a5277]  CompileBroker::compiler_thread_loop()+0x657
+V  [libjvm.so+0xa8d565]  JavaThread::thread_main_inner()+0x205
+V  [libjvm.so+0x935fb2]  java_start(Thread*)+0x132
+C  [libc.so.6+0x85ff2]

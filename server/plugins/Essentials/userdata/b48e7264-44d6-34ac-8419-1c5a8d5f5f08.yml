@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1682435068897
+  login: 1682434919799
+money: '0'
+last-account-name: anonomyss
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 541.3000000119209
+  y: 37.0
+  z: 645.9678745859759
+  yaw: 1.65008544921875
+  pitch: 49.20001220703125
+lastlocation:
+  world: 98007fb2-67b7-4a40-b899-00835f1722b9
+  world-name: world_nether
+  x: 84.66638215984642
+  y: 29.009616545229683
+  z: 71.81948284478224
+  yaw: -90.75000762939453
+  pitch: 55.80000686645508

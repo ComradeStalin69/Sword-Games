@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1700697914224
+  login: 1700697795396
+money: '0'
+last-account-name: Puppy_22
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 945.3674764073365
+  y: 64.0
+  z: 603.9445000604478
+  yaw: -20.5501708984375
+  pitch: 30.750001907348633
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 545.817995088407
+  y: 68.0
+  z: 652.5854743679661
+  yaw: 271.5000305175781
+  pitch: 55.499996185302734

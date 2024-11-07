@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1678419408043
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683646352459
+  login: 1683646153840
+money: '1488.31'
+last-account-name: snowie_jay
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 683.1884399572824
+  y: 71.0
+  z: 655.3904693423152
+  yaw: 262.9495849609375
+  pitch: 90.0
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 434.30000001192093
+  y: 64.0
+  z: 505.4099271257113
+  yaw: 86.16009521484375
+  pitch: -70.63679504394531

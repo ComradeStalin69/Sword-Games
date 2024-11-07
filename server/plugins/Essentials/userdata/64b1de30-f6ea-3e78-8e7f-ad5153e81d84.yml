@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681486515928
+  login: 1681485620713
+money: '0'
+last-account-name: Flightygamer188
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 541.6999999880791
+  y: 61.0
+  z: 621.775858955543
+  yaw: 354.6621398925781
+  pitch: 36.61229705810547
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 599.0838969514879
+  y: 58.0
+  z: 587.429876994607
+  yaw: -22.4703369140625
+  pitch: 13.799992561340332

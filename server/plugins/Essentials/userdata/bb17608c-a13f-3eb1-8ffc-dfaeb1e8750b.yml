@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671812233228
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671812439416
+  login: 1671812413657
+money: '17966.6599999999999999'
+last-account-name: CodingKitten_
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: -179.31115811041033
+  y: 79.0
+  z: 787.1621982525274
+  yaw: -353.5502014160156
+  pitch: 73.5
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: -2.4708368854035614
+  y: 6.0
+  z: 552.7086095191031
+  yaw: -109.95021057128906
+  pitch: 10.349992752075195
+homes:
+  home:
+    world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+    world-name: world
+    x: -73.78293831225653
+    y: 63.0
+    z: 618.5602439552498
+    yaw: 89.849853515625
+    pitch: 37.64999771118164

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701477349427
+  login: 1701473869678
+money: '0'
+last-account-name: rabaccaiscool545
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 512.3000000119209
+  y: 8.20000004768372
+  z: 500.59609759449904
+  yaw: -345.6001281738281
+  pitch: 90.0
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 816.6638970455168
+  y: 73.0
+  z: 596.5975363876975
+  yaw: 101.85001373291016
+  pitch: 31.649993896484375

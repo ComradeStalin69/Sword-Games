@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683813447664
+  login: 1683812978792
+money: '0'
+last-account-name: ziggy2
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 478.9412639059785
+  y: 73.0
+  z: 591.2667573002886
+  yaw: -160.65000915527344
+  pitch: 33.44999313354492
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 277.1485185924604
+  y: 76.0
+  z: 606.3377597711047
+  yaw: 7.307464599609375
+  pitch: 85.5

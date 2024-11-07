@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1696619911544
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698415422330
+  login: 1698415369629
+  kits:
+    tools: 1696345034772
+money: '0'
+last-account-name: mrbeast6000caleb
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 600.5
+  y: 65.0
+  z: 351.5
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: -310.49814813196764
+  y: 17.184999993517994
+  z: 616.666879595272
+  yaw: 147.900146484375
+  pitch: 79.3499984741211
+homes:
+  home:
+    world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+    world-name: world
+    x: -90.48082849000271
+    y: 63.0
+    z: 607.4959259111463
+    yaw: -11.999963760375977
+    pitch: 30.150009155273438

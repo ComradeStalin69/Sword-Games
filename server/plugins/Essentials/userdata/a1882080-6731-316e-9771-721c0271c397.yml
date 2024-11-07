@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699901179832
+  login: 1699901054620
+money: '0'
+last-account-name: YeatTwizz
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 962.6999999880791
+  y: 72.0
+  z: -137.69999998807907
+  yaw: -57.57090759277344
+  pitch: 62.82404327392578
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 511.16494672994816
+  y: 81.0
+  z: 571.0439579685667
+  yaw: 0.29854366183280945
+  pitch: -50.21905517578125

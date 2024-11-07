@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671958013461
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671958103473
+  login: 1671957996552
+money: '2141.3800000000000118'
+last-account-name: dasukin__22
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: -51.57885752602156
+  y: 63.0
+  z: 641.6645373931202
+  yaw: 93.5869140625
+  pitch: 2.5499892234802246
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: -41.77642236038167
+  y: 63.0
+  z: 641.2421876381395
+  yaw: 124.83401489257812
+  pitch: 14.916590690612793
+homes:
+  home:
+    world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+    world-name: world
+    x: -90.86316156717645
+    y: 63.0
+    z: 624.8109452744624
+    yaw: 123.88688659667969
+    pitch: 12.14999008178711

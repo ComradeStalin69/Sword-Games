@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1700160041803
+  login: 1700157659208
+money: '0'
+last-account-name: JBeato
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 450.5559583871511
+  y: 65.0
+  z: 559.8678208523912
+  yaw: -246.75048828125
+  pitch: 76.5
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 497.9665482948345
+  y: 79.0
+  z: 585.1312048446456
+  yaw: 24.000001907348633
+  pitch: -32.85000228881836

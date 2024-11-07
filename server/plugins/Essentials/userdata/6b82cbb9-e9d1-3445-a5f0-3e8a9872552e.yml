@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701880001832
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701882213358
+  login: 1701882397060
+money: '329962.9499999993'
+last-account-name: Dabi
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 732.6743541824256
+  y: 64.0
+  z: 707.2497063081569
+  yaw: -257.8502197265625
+  pitch: 8.550008773803711
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 725.5
+  y: 64.0
+  z: 714.5
+  yaw: -256.650634765625
+  pitch: 78.5999984741211
+homes:
+  home:
+    world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+    world-name: world
+    x: 735.4846069120684
+    y: 64.0
+    z: 718.6767606775867
+    yaw: -251.8502197265625
+    pitch: 11.399992942810059

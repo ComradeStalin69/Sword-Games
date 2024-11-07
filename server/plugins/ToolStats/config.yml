@@ -1,0 +1,193 @@
+settings:
+  prefix: '&7[&eToolStats&7]'
+  reload: 'Config reloaded'
+  noPerm: 'No permission'
+  trackSwitch: 'Tracking switched'
+  noArg: 'Command usage: /tstracking [break|killPlayer|killMob] [start|stop]'
+  outdatedServer: 'Do not use this command on servers older than 1.8, it will reset your counter'
+killPlayer:
+  enabled: true
+  autoStartTracking: true
+  trackItemsWCustomNames: true
+  lore:
+    - '&cKilled players: %count%'
+    - '&l&0J&1u&2s&3t &4a&5n&6o&7t&8h&9e&ar &bl&ci&dn&ee&f!'
+  tools:
+    - DIAMOND_SWORD
+    - IRON_SWORD
+    - GOLD_SWORD
+    - STONE_SWORD
+    - WOOD_SWORD
+  reward:
+    enabled: true
+    count: 10,20
+    enchant1:
+       enabled: true
+       applyOnlyCompatible: true
+       ench:
+         - DAMAGE_ALL:10
+         - DAMAGE_UNDEAD:1
+         - KNOCKBACK:2
+         - FIRE_ASPECT:1
+    exp1:
+      enabled: true
+      lvl: 100
+    items1:
+      enabled: true
+      give:
+        - GLOWSTONE:5
+    sound1:
+      enabled: true
+      sound: BLOCK_ANVIL_USE
+    command1:
+      enabled: true
+      command: 'tell %nickname% good'
+    enchant2:
+      enabled: true
+      applyOnlyCompatible: true
+      ench:
+        - DAMAGE_ALL:15
+        - DAMAGE_UNDEAD:1
+        - KNOCKBACK:4
+        - FIRE_ASPECT:2
+    exp2:
+      enabled: true
+      lvl: 200
+    items2:
+      enabled: true
+      give:
+        - DIAMOND_SWORD:1
+    sound2:
+      enabled: true
+      sound: BLOCK_ANVIL_USE
+    command2:
+      enabled: true
+      command: 'tell %nickname% very good'
+  worlds:
+      - world
+killMob:
+  enabled: true
+  autoStartTracking: true
+  trackItemsWCustomNames: true
+  lore:
+    - '&cKilled mobs: %count%'
+    - '&l&0J&1u&2s&3t &4a&5n&6o&7t&8h&9e&ar &bl&ci&dn&ee&f!'
+  tools:
+    - DIAMOND_SWORD
+    - IRON_SWORD
+    - GOLD_SWORD
+    - STONE_SWORD
+    - WOOD_SWORD
+  reward:
+    enabled: true
+    count: 20,40
+    enchant1:
+      enabled: true
+      applyOnlyCompatible: true
+      ench:
+        - DAMAGE_ALL:2
+        - KNOCKBACK:3
+        - FIRE_ASPECT:1
+    exp1:
+      enabled: true
+      lvl: 100
+    items1:
+      enabled: true
+      give:
+        - GLOWSTONE:6
+    sound1:
+      enabled: true
+      sound: BLOCK_ANVIL_USE
+    command1:
+      enabled: true
+      command: 'tell %nickname% good'
+    enchant2:
+      enabled: true
+      applyOnlyCompatible: true
+      ench:
+        - DAMAGE_ALL:5
+        - KNOCKBACK:5
+        - FIRE_ASPECT:2
+    exp2:
+      enabled: true
+      lvl: 200
+    items2:
+      enabled: true
+      give:
+        - DIAMOND_SWORD:1
+    sound2:
+      enabled: true
+      sound: BLOCK_ANVIL_USE
+    command2:
+      enabled: true
+      command: 'tell %nickname% very good'
+  worlds:
+      - world
+break:
+  enabled: true
+  autoStartTracking: true
+  trackItemsWCustomNames: true
+  lore:
+    - '&aDestroyed blocks: %count%'
+    - '&l&0J&1u&2s&3t &4a&5n&6o&7t&8h&9e&ar &bl&ci&dn&ee&f!'
+  tools:
+    - DIAMOND_PICKAXE
+    - DIAMOND_SPADE
+    - DIAMOND_AXE
+    - IRON_PICKAXE
+    - IRON_SPADE
+    - IRON_AXE
+    - GOLD_PICKAXE
+    - GOLD_SPADE
+    - GOLD_AXE
+    - STONE_PICKAXE
+    - STONE_SPADE
+    - STONE_AXE
+    - WOOD_PICKAXE
+    - WOOD_SPADE
+    - WOOD_AXE
+  reward:
+    enabled: true
+    count: 30,40
+    enchant1:
+      enabled: true
+      applyOnlyCompatible: true
+      ench:
+        - DIG_SPEED:2
+        - SILK_TOUCH:1
+        - DURABILITY:4
+    exp1:
+      enabled: true
+      lvl: 100
+    items1:
+      enabled: true
+      give:
+        - GLOWSTONE:7
+    sound1:
+      enabled: true
+      sound: BLOCK_ANVIL_USE
+    command1:
+      enabled: true
+      command: 'tell %nickname% good'
+    enchant2:
+      enabled: true
+      applyOnlyCompatible: true
+      ench:
+        - DIG_SPEED:5
+        - SILK_TOUCH:2
+        - DURABILITY:5
+    exp2:
+      enabled: true
+      lvl: 200
+    items2:
+      enabled: true
+      give:
+        - DIAMOND_SWORD:1
+    sound2:
+      enabled: true
+      sound: BLOCK_ANVIL_USE
+    command2:
+      enabled: true
+      command: 'tell %nickname% very good'
+  worlds:
+      - world

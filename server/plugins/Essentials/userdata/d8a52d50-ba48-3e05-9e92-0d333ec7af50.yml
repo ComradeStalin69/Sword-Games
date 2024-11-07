@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1696605190424
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696607184093
+  login: 1696607167510
+money: '0'
+last-account-name: sosa
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 497.5946385447428
+  y: 87.0
+  z: 578.9902468737849
+  yaw: -116.25000762939453
+  pitch: 23.700002670288086
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 122.69999998807907
+  y: 56.0
+  z: 359.69999998807907
+  yaw: -277.9500427246094
+  pitch: 82.19999694824219

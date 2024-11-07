@@ -1,0 +1,13 @@
+[07:47:08] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[07:47:08] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[07:47:08] [Server thread/INFO]: Loading properties
+[07:47:09] [Server thread/INFO]: Default game type: SURVIVAL
+[07:47:10] [Server thread/INFO]: This server is running PandaSpigot version git-PandaSpigot-79 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT) (Git: 02fd4c8)
+[07:47:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:47:10] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[07:47:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:47:10] [Server thread/INFO]: Debug logging is disabled
+[07:47:12] [Server thread/INFO]: Data value allowed items: 
+[07:47:13] [Server thread/INFO]: Generating keypair
+[07:47:13] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[07:47:14] [Server thread/INFO]: Using epoll channel type

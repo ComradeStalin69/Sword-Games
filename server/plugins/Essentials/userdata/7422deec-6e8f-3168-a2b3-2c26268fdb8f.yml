@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696951058110
+  login: 1696950958784
+money: '0'
+last-account-name: WALTER_WHITE09
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 408.08546219551346
+  y: 62.0275063112722
+  z: 673.0774407465784
+  yaw: -37.950042724609375
+  pitch: 20.9999942779541
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 408.08546219551346
+  y: 62.0275063112722
+  z: 673.0774407465784
+  yaw: -37.950042724609375
+  pitch: 20.9999942779541

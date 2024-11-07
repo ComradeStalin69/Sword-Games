@@ -1,0 +1,41 @@
+# +----------------------------------------------------+ #
+# |            AdminFun Main Configuration             | #
+# |                   By: Velocity6                    | #
+# |                   Version: 2.7.0                   | #
+# +----------------------------------------------------+ #
+
+notify-update-on-join: true
+
+  
+drop-party:
+  amount: 15
+  items: 
+    - DIAMOND_SWORD
+    - DIAMOND
+    - IRON_SWORD
+    - GOLD_INGOT
+    - DIAMOND_HELMET
+    - DIAMOND_LEGGINGS
+    - DIAMOND_CHESTPLATE
+    - DIAMOND_BOOTS
+    - GOLDEN_APPLE
+    - GOLDEN_HELMET
+    - GOLDEN_BOOTS
+    - GOLDEN_LEGGINGS
+    - GOLDEN_CHESTPLATE
+    - DIAMOND_PICKAXE
+    - GOLD_INGOT
+announce:
+  format: '[Announcement] %MSG%'
+
+tell:
+  format: '&6[%FROM% -> me]: &f%MSG%'
+
+spamcast:
+  message-count: 10
+  
+slap:
+  max-damage: 5
+  
+fireworkShow:
+  amount: 3

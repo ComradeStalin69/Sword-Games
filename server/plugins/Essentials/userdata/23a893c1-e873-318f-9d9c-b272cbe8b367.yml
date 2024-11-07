@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1695925706586
+  login: 1695924898782
+money: '0'
+last-account-name: ___kaito
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 658.3008342218204
+  y: 68.0
+  z: 479.6731752705975
+  yaw: 63.537315368652344
+  pitch: 84.12130737304688
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 778.9476558344712
+  y: 89.0
+  z: 268.11161421232964
+  yaw: -245.70001220703125
+  pitch: 75.0

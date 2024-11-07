@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722813991112
+  login: 1722812059583
+money: '0'
+last-account-name: YiggDarvler155
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 240.73313213723918
+  y: 104.2623845235824
+  z: 729.6721934142392
+  yaw: -176.87567138671875
+  pitch: 12.05639362335205
+homes:
+  home:
+    world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+    world-name: world
+    x: 303.9950305091118
+    y: 80.0
+    z: 689.573352389622
+    yaw: -236.10003662109375
+    pitch: 51.59999465942383

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1694026587390
+  login: 1694026313206
+money: '0'
+last-account-name: vinnie
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 700.8032514237843
+  y: 64.0
+  z: 380.24881937557535
+  yaw: 248.3998565673828
+  pitch: 16.4999942779541
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 710.3000000119209
+  y: 36.0
+  z: 374.30000001192093
+  yaw: 279.74993896484375
+  pitch: 77.55001831054688

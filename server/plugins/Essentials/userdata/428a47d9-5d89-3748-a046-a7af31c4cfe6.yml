@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1681303354408
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681303838258
+  login: 1681302154453
+money: '4355.659999998601009'
+last-account-name: Donomite
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 753.4759141629487
+  y: 64.0
+  z: 773.545064599246
+  yaw: 253.2000274658203
+  pitch: 20.400001525878906
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 776.3101667679214
+  y: 55.5
+  z: 747.695835119024
+  yaw: -342.07275390625
+  pitch: 24.29999351501465

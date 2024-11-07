@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1691767156776
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1692022347050
+  login: 1692022316436
+money: '0'
+last-account-name: Harlan
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 500.836329750249
+  y: 80.0
+  z: 569.7753449235613
+  yaw: 158.7509307861328
+  pitch: -19.075870513916016
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 602.3000000119209
+  y: 62.0
+  z: 558.9295276388206
+  yaw: 102.82611083984375
+  pitch: 7.338685512542725

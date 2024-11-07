@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701797421097
+  login: 1701795878411
+money: '0'
+last-account-name: Mr_Shard62
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 729.453427801231
+  y: 64.0
+  z: 714.0613997831297
+  yaw: -227.85003662109375
+  pitch: 7.199991703033447
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 491.30000001192093
+  y: 64.0
+  z: 707.0969123790742
+  yaw: 58.20000457763672
+  pitch: 49.80000305175781
+homes:
+  home:
+    world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+    world-name: world
+    x: 726.3292731759386
+    y: 64.0
+    z: 718.7705709951025
+    yaw: 171.6000213623047
+    pitch: 4.799992561340332

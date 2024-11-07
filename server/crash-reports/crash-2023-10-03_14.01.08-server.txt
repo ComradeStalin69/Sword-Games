@@ -1,0 +1,26 @@
+---- Minecraft Crash Report ----
+// Why is it breaking :(
+
+Time: 10/3/23 2:01 PM
+Description: Exception in server tick loop
+
+java.lang.OutOfMemoryError: Java heap space
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.8
+	Operating System: Linux (amd64) version 6.2.0-1014-gcp
+	Java Version: 1.8.0_265, Azul Systems, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Azul Systems, Inc.
+	Memory: 35164024 bytes (33 MB) / 479723520 bytes (457 MB) up to 479723520 bytes (457 MB)
+	JVM Flags: 1 total; -Xmx512M
+	IntCache: cache: 1, tcache: 1, allocated: 12, tallocated: 94
+	CraftBukkit Information: ~~ERROR~~ OutOfMemoryError: Java heap space
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 30; [EntityPlayer['Candice'/10734, l='world', x=483.41, y=78.75, z=584.34](Candice at 483.41233004301284,78.7531999805212,584.3389730246757)]
+	Is Modded: Definitely; Server brand changed to 'PandaSpigot'
+	Type: Dedicated Server (map_server.txt)

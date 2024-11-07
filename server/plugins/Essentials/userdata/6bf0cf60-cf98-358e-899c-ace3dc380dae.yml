@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1689967718645
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1691103529432
+  login: 1691103215308
+  kits:
+    tools: 1689879446705
+money: '0'
+last-account-name: wolfie
+lastlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 489.8027461435905
+  y: 79.0
+  z: 586.6709230201066
+  yaw: 179.37904357910156
+  pitch: 6.5046796798706055
+homes:
+  home:
+    world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+    world-name: world
+    x: 669.3000000119209
+    y: 65.0
+    z: 1331.0956942521225
+    yaw: 85.25048828125
+    pitch: 90.0
+logoutlocation:
+  world: 4913eb8f-6517-438b-9ee7-ef3b43f33895
+  world-name: world
+  x: 685.5363504692641
+  y: 64.0
+  z: 1234.558686165699
+  yaw: 154.04248046875
+  pitch: 11.563021659851074
