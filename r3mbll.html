@@ -1,6 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script>swf2js.load('Run 3 (1).swf')</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SWF Embed with swf2js</title>
+  <script src="https://cdn.jsdelivr.net/npm/swf2js@latest"></script>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+    #swf-container {
+      width: 800px; /* Adjust as needed */
+      height: 600px;
+      background-color: #000; /* Background color for the SWF */
+    }
+  </style>
+</head>
+<body>
+  <div id="swf-container"></div>
+
+  <script>
+    // Initialize swf2js
+    swf2js.load('Run 3.swf', 'swf-container', {
+      width: 800,  // Set your SWF width
+      height: 600, // Set your SWF height
+    });
+  </script>
 </body>
 </html>
