@@ -1,20 +1,11 @@
 <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
-
-<div id="flash-content">
-    <object id="flash-player" type="application/x-shockwave-flash" data="path/to/your/game.swf" width="800" height="600">
-        <param name="movie" value="path/to/your/game.swf">
-        <param name="quality" value="high">
-        <param name="allowScriptAccess" value="always">
-    </object>
-</div>
-
 <script>
     window.addEventListener("load", function () {
         const ruffle = RufflePlayer.newest();
         const player = ruffle.createPlayer();
         const flashContent = document.getElementById("flash-content");
         flashContent.appendChild(player);
-        player.load("path/to/your/game.swf");
+        player.load("Run 3.swf");
 
         // Enable WebGL rendering
         player.setRenderer("webgl");
