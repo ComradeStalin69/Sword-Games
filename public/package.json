@@ -1,20 +1,9 @@
 {
-  "name": "education",
-  "version": "4.4.7",
-  "description": "",
-  "type": "module",
-  "engines": {
-    "npm": ">=7.0.0",
-    "node": ">=16.0.0"
-  },
-  "scripts": {
-    "start": "node index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@tomphttp/bare-server-node": "^1.2.6",
-    "express": "^4.18.2"
+    "grunt": "^1.5.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-cssmin": "^4.0.0",
+    "grunt-uncss": "^0.10.1"
   }
 }
