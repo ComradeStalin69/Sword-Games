@@ -2,62 +2,208 @@
 <head>
   <title>random words</title>
   <style>
-    
-   
-    
-    #output {
-    
-      font-family:fantisy;
+        body {
+      margin: 0;
+      overflow: hidden;
+      font-family: Arial, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      flex-direction: column;
+      color: white;
+    }
+
+    #background {
+      position: absolute;
+      width: 100vw;
+      height: 100vh;
+      overflow: hidden;
+      background: radial-gradient(circle, rgb(0, 0, 0), rgb(1, 44, 42));
+      z-index: -1;
+    }
+
+    .star {
+      position: absolute;
+      background: rgb(57, 255, 215);
+      border-radius: 50%;
+      transform: scale(0);
+      animation: sparkle 2s infinite, drift linear infinite;
+    }
+
+    @keyframes sparkle {
+      0%, 100% {
+        opacity: 0;
+        transform: scale(0);
+      }
+      50% {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+
+    @keyframes drift {
+      0%, 100% {
+        transform: translate(0, 0);
+      }
+      50% {
+        transform: translate(0px, 0px);
+      }
+    }
+
+    .container {
+      text-align: center;
+      background: rgba(0, 0, 0, 0.6);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    }
+
+    input {
+      padding: 10px;
+      width: 200px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin-bottom: 10px;
+    }
+
+    button {
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    .encode-btn {
+      background-color: #007bff;
+      color: white;
+    }
+
+    .decode-btn {
+      background-color: #28a745;
+      color: white;
+    }
+
+    button:hover {
+      opacity: 0.8;
+    }
+
+    #output, #outputdecode {
+      font-size: 16px;
+      font-weight: bold;
+      color: #daf3f1;
+      margin-top: 10px;
     }
   </style>
 </head>
 <body>
 
-  <h2>random word generator</h2>
-  <div>
-    <button>generate</button>
-  </div>
-  <div>
-   
-  
+  <div id="background"></div>
 
-  <div id="output"></div>
+  <div class="container">
+    <h2>Encoder/Decoder</h2>
+
+    <div>
+      <input type="text" id="encodeinput">
+      <button class="encode-btn" onclick="encode()">Encode</button>
+    </div>
+
+    <div id="output"></div>
+<p></p>
+    <div>
+      <input type="text" id="decodeinput">
+      <button class="decode-btn" onclick="decode()">Decode</button>
+    </div>
+
+    <div id="outputdecode"></div>
+  </div>
 
   <script>
-   
-    var btn = document.querySelector("button");
-    var out = document.getElementById("output");
-    
-  
-    btn.addEventListener("click", getWord);
-   
-    function getWord(){
-     
+    function encode() {
+      let encodeinput = document.getElementById("encodeinput");
+      let encodevalue = encodeinput.value;
+      let encodeoutput = document.getElementById("output");
+      for (let i = 0; i < 5; i++) {
+        encodevalue = btoa(encodevalue);
+      }
+      alert("The enciphered text has been copied for your convenience!");
+      encodeoutput.textContent = encodevalue;
+      navigator.clipboard.writeText(encodevalue);
       
-      var theWord= [
-        'dog',
-        'potato',
-        'cow',
-        'parrot',
-        'stone',
-        'watch',
-         'house',
-         'biolumonesance',
-        'brake',
-        'potato/salad',
-        'trip',
-        'hipopotomus',
-        'mask',
-        'chicken',
-        'Pneumonoultramicroscopicsilicovolcanoconiosis',
-      ];
-
-      
-      var wordNum = Math.floor(Math.random() * theWord.length);
-      
-     
-      output.textContent = theWord[wordNum];
     }
-</script>
+
+    function decode() {
+      let decodeinput = document.getElementById("decodeinput");
+      let decodevalue = decodeinput.value;
+      let decodeoutput = document.getElementById("outputdecode");
+      for (let j = 0; j < 5; j++) {
+        decodevalue = atob(decodevalue);
+      }
+      decodeoutput.textContent = decodevalue;
+    }
+
+    // Generate background stars
+    const numStars = 300;
+    const background = document.getElementById('background');
+
+    for (let i = 0; i < numStars; i++) {
+      const star = document.createElement('div');
+      star.classList.add('star');
+      star.style.width = `${Math.random() * 3}px`;
+      star.style.height = star.style.width;
+      star.style.left = `${Math.random() * 100}vw`;
+      star.style.top = `${Math.random() * 100}vh`;
+      star.style.animationDuration = `${Math.random() * 3 + 2}s`;
+      background.appendChild(star);
+    }
+  </script>
+   
+
+  </style>
+</head>
+<body>
+<!---
+  <h2>encoder/decoder</h2>
+  <div>
+    <input type="text" id="encodeinput"></input>
+    <button onclick="encode()">encode</button>
+    <script>
+      function encode(){
+        let encodeinput = document.getElementById("encodeinput");
+        let encodevalue = encodeinput.value;
+        let encodeoutput = document.getElementById("output");
+        for (let i = 0; i < 5; i++) {
+          encodevalue = btoa (encodevalue);
+          encodeoutput.textContent = encodevalue;
+    }
+    navigator.clipboard.writeText(encodevalue);
+    alert("The encyphered text has been copied for your convenience!")
+        
+      }
+
+    </script>
+  </div>
+  <div id="output"></div>
+  <div>
+    <p></p>
+    <p></p>
+    <input type="text" id="decodeinput"></input>
+    <button onclick="decode()">encode</button>
+    <script>
+      function decode(){
+        let decodeinput = document.getElementById("decodeinput");
+        let decodevalue = decodeinput.value;
+        let decodeoutput = document.getElementById("outputdecode");
+        for (let j = 0; j < 5; j++) {
+        decodevalue = atob (decodevalue);
+        decodeoutput.textContent = decodevalue;
+      }}
+
+    </script>
+  </div>
+  <div id="outputdecode"></div>
+  
 </body>
 </html>
+-->
