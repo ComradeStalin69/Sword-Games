@@ -127,19 +127,40 @@
       for (let i = 0; i < 5; i++) {
         encodevalue = btoa(encodevalue);
       }
-      alert("The enciphered text has been copied for your convenience!");
-      encodeoutput.textContent = encodevalue;
-      navigator.clipboard.writeText(encodevalue);
+      let charactercode = 0
+      let newcharcode = 0
+      let cypherstring="";
+      for (let bob = 0; bob< encodevalue.length; bob++){
+        charactercode=encodevalue.charCodeAt(bob);
+        newcharcode=charactercode + 1;
+        cypherstring+=String.fromCharCode(newcharcode);
+        console.log(cypherstring)
+      }
       
+      encodeoutput.textContent = cypherstring;
+      navigator.clipboard.writeText(cypherstring);
+      alert("The enciphered text has been copied for your convenience!");
     }
 
     function decode() {
       let decodeinput = document.getElementById("decodeinput");
       let decodevalue = decodeinput.value;
       let decodeoutput = document.getElementById("outputdecode");
+           
+      let ncharactercode = 0
+      let nnewcharcode = 0
+      let ncypherstring="";
+      for (let bobert = 0; bobert< decodevalue.length; bobert++){
+        ncharactercode=decodevalue.charCodeAt(bobert);
+        nnewcharcode=ncharactercode - 1;
+        ncypherstring+=String.fromCharCode(nnewcharcode);
+        console.log(ncypherstring)
+      }
+      decodevalue=ncypherstring
       for (let j = 0; j < 5; j++) {
         decodevalue = atob(decodevalue);
       }
+      
       decodeoutput.textContent = decodevalue;
     }
 
