@@ -7,8 +7,7 @@ var events = new Array();
 // Initialize game ...
 function startGame() {
 	scene = new THREE.Scene();
-	scene.fog = new THREE.FogExp2(0xffffff, 0.18);
-
+	scene.fog = new THREE.Fog(0xffffff, 10, 20); 
 
 	camera = new THREE.PerspectiveCamera( 90, window.innerWidth/window.innerHeight, 0.1, 100 );
 	camera.lookAt(new THREE.Vector3(0,0,10));
